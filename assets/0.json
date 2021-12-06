@@ -1,0 +1,19 @@
+{
+  "name": "Ketchup",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "6utGJd9UH4fViQhc1JnymmWFQ19ZzjLduLhHqQZHggfJ",
+        "share": 100
+      }
+    ]
+  }
+}
